@@ -1,4 +1,25 @@
+<<<<<<< HEAD
 
+=======
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+
+.cache
+>>>>>>> branch 'main' of https://github.com/Sucip70/Katalon.git
 /bin/
 /Libs/
 /.settings/

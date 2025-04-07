@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PT. Chandra Asri Petrochemical (default)</name>
+   <tag></tag>
+   <elementGuidId>6dca37cc-1782-4770-b563-5ce801a6dfb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-293</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shellHeaderSwitcherButton']/div/button/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test-id=&quot;SelectEnvironment&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17a19769-5bc4-4a5e-a022-38c4e1d5d0ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>EnvironmentTitle</value>
+      <webElementGuid>b1f5fa1a-5ce1-4b30-a2be-4926fafd49bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-293</value>
+      <webElementGuid>8d04256a-9602-47ae-961a-b6ef0efa6409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PT. Chandra Asri Petrochemical (default)</value>
+      <webElementGuid>f29bc1b6-92a8-4450-935a-7b79c4e07824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shellHeaderSwitcherButton&quot;)/div[@class=&quot;shellHeaderButtonContainer container-300&quot;]/button[@class=&quot;o365sx-button containerButton-287&quot;]/div[@class=&quot;shellHeaderSwitcherButtonHeaderText textArea-291&quot;]/div[@class=&quot;textAndIconContainer-294&quot;]/div[@class=&quot;text-293&quot;]</value>
+      <webElementGuid>570654ca-e9bf-4900-bc3d-c41834c27b5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shellHeaderSwitcherButton']/div/button/div[2]/div[2]/div</value>
+      <webElementGuid>863d12e0-0fea-4c3a-9bec-2e354e9e7f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::div[2]</value>
+      <webElementGuid>45bb549a-f0e3-41eb-876b-efeaaef8b225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Power Apps'])[1]/following::div[14]</value>
+      <webElementGuid>2044833b-1c69-4148-9654-f4c5265d6e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAP Application'])[1]/preceding::div[16]</value>
+      <webElementGuid>ae8bffe1-eb99-4b4a-bd01-ed3cfedc9baf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::div[27]</value>
+      <webElementGuid>b3a89476-4d48-4e71-8c3f-842e2e9e8571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PT. Chandra Asri Petrochemical (default)']/parent::*</value>
+      <webElementGuid>9a0b1753-690a-46a2-ac24-56c8cb822fb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>b194a121-8417-4093-8463-cf007dc8d070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PT. Chandra Asri Petrochemical (default)' or . = 'PT. Chandra Asri Petrochemical (default)')]</value>
+      <webElementGuid>2e81bf82-fd02-47fb-ade7-528c01643955</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

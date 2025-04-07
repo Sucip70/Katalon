@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Apps</name>
+   <tag></tag>
+   <elementGuidId>69052236-acde-413b-89e2-1eb96a65a57e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ms-StackItem.with-context-menu.css-268 > a.ms-Link.root-269</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='aboveCustomizableItemsId0']/div[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Apps, press right arrow to navigate more options&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>90bc0b1f-8aa9-4d7e-b62e-ddd45a9db428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/environments/Default-a289e960-a538-4db3-adf0-845b57e616cf/apps</value>
+      <webElementGuid>e2b3beb3-27f2-4803-8451-d012046d7357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Apps, press right arrow to navigate more options</value>
+      <webElementGuid>94e5eccb-2e77-4cf6-89b0-49e69259db16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Link root-269</value>
+      <webElementGuid>aebf6d49-baf1-41ff-bf33-d7ce534f9560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5a718b8b-d61d-44ed-84c4-33aa3b61294c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apps</value>
+      <webElementGuid>0273656b-22fb-4d7c-bf99-5444b9d66d72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aboveCustomizableItemsId0&quot;)/div[@class=&quot;ms-StackItem with-context-menu css-268&quot;]/a[@class=&quot;ms-Link root-269&quot;]</value>
+      <webElementGuid>6b95ed66-8a41-4ac7-bb3a-2958a1e2af45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aboveCustomizableItemsId0']/div[4]/a</value>
+      <webElementGuid>c08d5252-bb44-4dba-a161-299ca5644a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn'])[1]/following::a[1]</value>
+      <webElementGuid>110561fa-8cb9-4553-9d22-01b846c772ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::a[2]</value>
+      <webElementGuid>7c5d40a0-cbea-4620-b230-43570578aede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tables'])[1]/preceding::a[1]</value>
+      <webElementGuid>d78dbf3e-3775-4eb0-ab55-a54d4b14d4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/environments/Default-a289e960-a538-4db3-adf0-845b57e616cf/apps')]</value>
+      <webElementGuid>8cc2c34b-ab94-417b-af5d-058a805a7dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[4]/a</value>
+      <webElementGuid>44be7bc7-60b1-483f-829d-d97fe1118abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/environments/Default-a289e960-a538-4db3-adf0-845b57e616cf/apps' and (text() = 'Apps' or . = 'Apps')]</value>
+      <webElementGuid>f6e59645-c717-484d-882a-de4536f61d14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
