@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ECDC Development</name>
+   <tag></tag>
+   <elementGuidId>053566ac-7ea1-4ecd-a3b5-fbd3182a55e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ba-EnvironmentNameColumn.environmentNameColumnStyles-927.ms-DetailsRow-cell.cell-953.cellUnpadded-951</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='row677-0']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;ECDC Development&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b783bde9-5c00-4a05-89be-8076469cba7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>074bf849-7e37-4660-957b-0bbb120c0445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ba-EnvironmentNameColumn environmentNameColumnStyles-927 ms-DetailsRow-cell cell-953 cellUnpadded-951</value>
+      <webElementGuid>bead51c1-b703-4831-bee4-46550d8ca973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automationid</name>
+      <type>Main</type>
+      <value>DetailsRowCell</value>
+      <webElementGuid>22ee1c14-626c-4c20-9b2a-3822fc54be7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-key</name>
+      <type>Main</type>
+      <value>displayName</value>
+      <webElementGuid>01d853f0-b64d-4c44-94ae-b592d929d96d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ECDC Development</value>
+      <webElementGuid>14075ee4-fbb5-48c6-8888-9d9bab6a5095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;row677-0&quot;)/div[@class=&quot;ms-DetailsRow-fields fields-956&quot;]/div[@class=&quot;ba-EnvironmentNameColumn environmentNameColumnStyles-927 ms-DetailsRow-cell cell-953 cellUnpadded-951&quot;]</value>
+      <webElementGuid>f521c86c-05de-4204-9537-9011d75d23e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='row677-0']/div[2]/div</value>
+      <webElementGuid>39936395-fc80-4dd7-bbaf-16a38b5d610a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[1]/following::div[10]</value>
+      <webElementGuid>468735fb-a770-4d30-a9d8-9b2b50612577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Build apps with Dataverse'])[1]/following::div[10]</value>
+      <webElementGuid>c5a685b4-b592-4039-83b5-a1e924f5a4c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[3]/preceding::div[2]</value>
+      <webElementGuid>80b3886b-b26c-422d-8337-2bb00a8cfdab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ECDC Development'])[2]/preceding::div[2]</value>
+      <webElementGuid>2f5953fe-2188-4aee-ad6a-fc642a122162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ECDC Development']/parent::*</value>
+      <webElementGuid>53614a5c-ec40-4b34-9b20-64f13d139fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>1daa1cd9-2374-49c8-8710-69572e0c965c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ECDC Development' or . = 'ECDC Development')]</value>
+      <webElementGuid>b65a8fc9-c9e8-4093-babf-9f6b7b7ebb36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

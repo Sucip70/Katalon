@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87d1f90b-eeb8-432a-b3c9-cbe36c95470d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b749fa69-0882-455a-8fc9-aa45f282fdc1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>b749fa69-0882-455a-8fc9-aa45f282fdc1</id>
+      <masked>false</masked>
+      <name>IsLogin</name>
+   </variable>
+</TestCaseEntity>
