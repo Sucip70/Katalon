@@ -4,4 +4,14 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ahmad0sucipto@gmail.com'</initValue>
+      <name>email1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'egmZ4/Gl2Wntj1FPxR7e9g=='</initValue>
+      <name>PassJKT48</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

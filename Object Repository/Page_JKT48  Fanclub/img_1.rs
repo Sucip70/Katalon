@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>28571abd-5040-45ad-ae62-b70c8b1904b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(6) > .modalLink > img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ba4cc980-e612-4a6e-ad22-7feba0323142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/fanclub/benefits-image06.png</value>
+      <webElementGuid>49d85e57-f3df-432c-8382-4966b0c83485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;entry-fanclub2024&quot;]/div[@class=&quot;entry-fanclub2024__contents-area&quot;]/section[@class=&quot;frame&quot;]/div[@class=&quot;entry-fanclub2024__benefits&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row d-flex justify-content-center&quot;]/div[@class=&quot;col-6 col-lg-4&quot;]/div[@class=&quot;modalLink&quot;]/img[1]</value>
+      <webElementGuid>a7ff162d-db7b-4371-b38e-76fdc3283d6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/img</value>
+      <webElementGuid>1c6108fb-3016-44c9-93f6-61d74baf8751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/fanclub/benefits-image06.png']</value>
+      <webElementGuid>f19d756a-c6fa-4a03-b3f1-6716fb11efa1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
