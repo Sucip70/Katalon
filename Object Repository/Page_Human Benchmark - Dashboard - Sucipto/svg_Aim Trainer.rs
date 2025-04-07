@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Aim Trainer</name>
+   <tag></tag>
+   <elementGuidId>8b826c8c-fe0c-47ac-93a5-e269d7129a49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGOUT'])[2]/following::*[name()='svg'][6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Aim Trainer&quot;i] >> internal:role=link[name=&quot;Aim Trainer&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>bb331b46-f4fe-4cea-9a6a-b6def2904028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>128</value>
+      <webElementGuid>3a4d4248-0947-4f57-8af5-3be21d63d44b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>128</value>
+      <webElementGuid>212ea5c7-9c82-4b8c-9565-67c5f48a670c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 128 128</value>
+      <webElementGuid>23e07e4a-cb20-442f-8b7d-02931068942f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>51d52571-e5f7-4c4e-8784-27a146235b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>6ab85893-17ea-4672-963c-5988b7ad4b90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#ff9345</value>
+      <webElementGuid>d5f976ca-8a68-4e92-918f-5c46bf9f07c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aim Trainer</value>
+      <webElementGuid>c302cb1c-1736-4272-82c6-9bf7173351a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1gr1qbh&quot;]/div[4]/div[@class=&quot;css-1f554t4 e19owgy74&quot;]/div[@class=&quot;css-1ur49oz e19owgy70&quot;]/div[@class=&quot;css-1g0fi9k e1mz7xfy4&quot;]/div[@class=&quot;css-ocvuti e19owgy71&quot;]/div[@class=&quot;css-armjll e1mz7xfy3&quot;]/a[1]/svg[1]</value>
+      <webElementGuid>079353f2-5b6f-44ad-8896-cb1c5e8699bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGOUT'])[2]/following::*[name()='svg'][6]</value>
+      <webElementGuid>476d5fca-f86c-4d5e-a6f6-f370d2aaefd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DASHBOARD'])[2]/following::*[name()='svg'][6]</value>
+      <webElementGuid>2ac8d4cc-11dd-46e8-b31f-731a661fbbd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>aa18b4ef-08dd-41d7-a081-975766c05ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sucipto'])[2]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>a21f09ba-d7ba-426c-8fcb-434a674e6b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Aim Trainer' or . = 'Aim Trainer')]</value>
+      <webElementGuid>1e3558a2-869c-4ee1-adf9-f067ff35695d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

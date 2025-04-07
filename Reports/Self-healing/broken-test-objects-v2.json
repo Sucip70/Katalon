@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Human Benchmark - Typing Test - WPM/div_The summer evenings were long. It was n_3d4cdf",
+      "brokenLocator": "div.letters.notranslate",
+      "brokenLocatorMethod": "CSS",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div[4]/div/div/div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Human Benchmark - Typing Test - WPM/div_The summer evenings were long. It was n_3d4cdf_XPATH.png"
+    }
+  ]
+}

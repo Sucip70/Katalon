@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Play_1</name>
+   <tag></tag>
+   <elementGuidId>3603ef67-f989-418b-9df4-86db9d026c2a</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div/div/div[2]/div[2]/div/table/tbody/tr[7]/td[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/tests/typing' and (text() = ' Play' or . = ' Play')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(7) > td:nth-of-type(2) > div.css-dgu1g4.e1s5avgb1 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Typing Play Stats 41WPM 45.1%&quot;i] >> internal:role=link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1d13c3a9-29a3-4883-8863-b7a626a5ed20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tests/typing</value>
+      <webElementGuid>ac31777f-4576-451d-bd1e-b9c7c06756b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Play</value>
+      <webElementGuid>a5daccbe-8a60-436a-b19c-d077098da352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1gr1qbh&quot;]/div[4]/div[@class=&quot;css-1f554t4 e19owgy74&quot;]/div[@class=&quot;css-1ur49oz e19owgy70&quot;]/div[2]/div[@class=&quot;css-1ur49oz e19owgy70&quot;]/div[@class=&quot;css-ocvuti e19owgy71&quot;]/table[@class=&quot;css-uou3if&quot;]/tbody[1]/tr[7]/td[2]/div[@class=&quot;css-dgu1g4 e1s5avgb1&quot;]/a[1]</value>
+      <webElementGuid>ae5f043b-f27a-4887-8e51-e853bce475fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div/div/div[2]/div[2]/div/table/tbody/tr[7]/td[2]/div/a</value>
+      <webElementGuid>6c29ba72-fa56-478f-9d7a-610566497073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Play')])[6]</value>
+      <webElementGuid>794459ba-a083-41d0-9d2d-98cfe1c86622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typing'])[2]/following::a[1]</value>
+      <webElementGuid>a746aada-7705-4218-8512-0739c78325ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ms'])[1]/following::a[1]</value>
+      <webElementGuid>e6dad2a3-5516-49d1-a337-61cea0639bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stats'])[6]/preceding::a[1]</value>
+      <webElementGuid>4027ecc9-c399-4d01-8677-254b103e7bdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WPM'])[1]/preceding::a[2]</value>
+      <webElementGuid>8fea7ab9-a469-456f-b00d-b93aa0fcf63c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tests/typing')]</value>
+      <webElementGuid>3e1091ff-57c9-4866-b2f0-6b2547d1ef1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[2]/div/a</value>
+      <webElementGuid>967d8e46-8d3d-4206-9b93-29d47d04354d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tests/typing' and (text() = ' Play' or . = ' Play')]</value>
+      <webElementGuid>90ba1e09-6068-4b8b-8122-664e45756149</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
