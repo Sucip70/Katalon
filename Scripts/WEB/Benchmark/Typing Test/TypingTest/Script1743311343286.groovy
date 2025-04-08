@@ -22,9 +22,11 @@ import org.openqa.selenium.interactions.Actions as Actions
 
 WebUI.callTestCase(findTestCase('WEB/Benchmark/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.executeJavaScript("window.scrollBy(0, 1500)", null)
+TestObject button = findTestObject('Object Repository/Page_Human Benchmark - Dashboard - Sucipto/a_Play_1')
 
-WebUI.click(findTestObject('Object Repository/Page_Human Benchmark - Dashboard - Sucipto/a_Play_1'))
+WebUI.scrollToElement(button, 10)
+
+WebUI.click(button)
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Human Benchmark - Typing Test - WPM/div_The summer evenings were long. It was n_3d4cdf'), 
     10)
@@ -43,7 +45,7 @@ Actions actions = new Actions(driver)
 for (char c : text.toCharArray()) {
     actions.sendKeys(String.valueOf(c)).perform()
 
-    Thread.sleep(80)
+    //Thread.sleep(80)
 }
 
 WebUI.executeJavaScript("window.scrollBy(0, 200)", null)

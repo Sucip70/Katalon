@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()  
+
 WebUI.navigateToUrl('https://humanbenchmark.com/dashboard')
 
 WebUI.click(findTestObject('Object Repository/Page_Human Benchmark - Dashboard - Guest user/a_LOGIN'))
@@ -27,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Human Benchmark - Log in/in
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Human Benchmark - Log in/input_Password_password'), 'WsAFD28uUmwkZelzEgZtcQ==')
 
-WebUI.executeJavaScript("window.scrollBy(0, 500)", null)
+WebUI.executeJavaScript("window.scrollBy(0, 100)", null)
 
 WebUI.click(findTestObject('Object Repository/Page_Human Benchmark - Log in/input_Password_css-z5gx6u e19owgy712'))
 

@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>724e32d8-133b-400a-8808-94349d46acae</webElementGuid>
+      <webElementGuid>c9492c86-fc17-4b42-9f8a-53ee6c7aa4a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/tests/memory</value>
-      <webElementGuid>ff7474a9-8e81-46d0-b0c6-214c5f86598f</webElementGuid>
+      <value>/tests/typing</value>
+      <webElementGuid>fb480d8e-7fa3-447e-b041-f2a625b3f552</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Play</value>
-      <webElementGuid>1a82652d-1844-45a2-98c9-495a7ef56f8e</webElementGuid>
+      <webElementGuid>83432e19-33ac-4ef7-8be2-3c6556854b3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;css-1gr1qbh&quot;]/div[4]/div[@class=&quot;css-1f554t4 e19owgy74&quot;]/div[@class=&quot;css-1ur49oz e19owgy70&quot;]/div[2]/div[@class=&quot;css-1ur49oz e19owgy70&quot;]/div[@class=&quot;css-1hij385 e19owgy71&quot;]/div[@class=&quot;go-to-test&quot;]/a[1]</value>
-      <webElementGuid>bdf72ea2-d93b-4acd-bfac-db9ff93e2d81</webElementGuid>
+      <webElementGuid>5e701bb3-38cf-4ba9-bb6c-e467874bf487</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[4]/div/div/div[2]/div[2]/div/div[4]/a</value>
-      <webElementGuid>74f6259f-7b30-48b3-bf3d-ed3bc2a92c3e</webElementGuid>
+      <webElementGuid>f68ba32d-ee8d-4b2a-991a-9e61ebcdbdf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,55 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Play')]</value>
-      <webElementGuid>fd9f620b-8924-415b-aaf1-21e3ccbfebe2</webElementGuid>
+      <webElementGuid>16bdb398-9735-4208-96af-0d27c5a52b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WPM'])[1]/following::a[1]</value>
+      <webElementGuid>bb34489c-e221-43e2-9c8e-4640a0fb486d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typing'])[2]/following::a[1]</value>
+      <webElementGuid>de26e2ba-fdf3-420f-86e4-834460267073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Play']/parent::*</value>
+      <webElementGuid>2eaf6e94-0894-4e8e-b8b9-bc14e8466a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tests/typing')]</value>
+      <webElementGuid>a8ace1a7-58a8-4eda-bcf1-4cbdc66fa346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/a</value>
+      <webElementGuid>366049d2-f74a-4440-8a65-793c87d4a4cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tests/typing' and (text() = 'Play' or . = 'Play')]</value>
+      <webElementGuid>deac840d-fdab-4b33-83e5-4b347afcd938</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,26 +138,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Play']/parent::*</value>
-      <webElementGuid>97167645-3d0f-47ea-8151-7f0506c85a11</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/tests/memory')]</value>
       <webElementGuid>a942363f-e510-4518-b26a-2f7591ece6f6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/div[4]/a</value>
-      <webElementGuid>d272ee80-bbe8-4506-ad1f-7b305d7b7189</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,14 +172,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typing'])[2]/following::a[1]</value>
-      <webElementGuid>69a33f1c-fee5-4c59-b7a1-b557e485a775</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ms'])[1]/following::a[1]</value>
       <webElementGuid>e24b404b-bbb6-48b1-80a4-cf2947492773</webElementGuid>
    </webElementXpaths>
@@ -166,14 +190,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WPM'])[1]/preceding::a[2]</value>
       <webElementGuid>decfa042-d711-4edb-b40d-91eb98216b6f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, '/tests/typing')]</value>
-      <webElementGuid>4174123a-e7e5-4b29-962c-04428e47548e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

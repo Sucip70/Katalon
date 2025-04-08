@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('WEB/Benchmark/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('Object Repository/Page_Human Benchmark - Dashboard - Sucipto/svg_Typing'))
+
