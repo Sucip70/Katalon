@@ -19,24 +19,24 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>791f00e7-11f9-4f15-9aae-533a0038df40</guid>
+      <guid>aee90cb3-352d-44a4-b758-9b3b4d478d2c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/Benchmark/Typing Test/Play</testCaseId>
+      <testCaseId>Test Cases/WEB/Benchmark/Typing Test/Perform Typing</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1165ccd7-f5e2-4905-a4c2-35f21e9f2aac</guid>
+      <guid>557aa7cc-60e5-49c7-b0f6-57230acbb10f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/Benchmark/Typing Test/Save</testCaseId>
+      <testCaseId>Test Cases/WEB/Benchmark/Typing Test/Perform Typing</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>38967fc9-f7b5-4749-805a-8ee73e8addd7</guid>
+      <guid>abc1706f-31f9-4a66-b0bd-24e2c8c57528</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/Benchmark/Typing Test/TypingTest</testCaseId>
+      <testCaseId>Test Cases/WEB/Benchmark/Typing Test/Perform Typing</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

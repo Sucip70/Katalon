@@ -9,6 +9,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Human Benchmark - Typing Test - WPM/div_The summer evenings were long. It was n_3d4cdf_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Human Benchmark - Dashboard - Sucipto/a_Play",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div[4]/div/div/div[2]/div[2]/div/div[4]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Play\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Human Benchmark - Dashboard - Sucipto/a_Play_link.png"
     }
   ]
 }
